@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+#search{
+  text-align: center;
+  padding-right: 20%;
+  padding-left: 20%;
+  padding-top: 6%;
+  padding-bottom: 6%;
+}
+
+#card{
+  width: 100%;
+  height: 40%;
+  border: 2px;
+  padding: 20px;
+  overflow: auto;
+}
+
+.header{
+  padding-top: 10px;
+  padding-bottom: 50px;
+}

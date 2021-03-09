@@ -1,0 +1,9 @@
+const at = {
+    ADD_POST: 'ADD_POST',
+
+    SET_INPUT_TITLE: 'SET_INPUT_TITLE',
+    SET_INPUT_CONTENT: 'SET_INPUT_CONTENT',
+    RESET_INPUT: 'RESET_INPUT',
+}
+
+export default at;
